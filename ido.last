@@ -1,0 +1,61 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/media/jishnu/Workspace/Linux/Workspace/OpenCV/MotionDetection/" . "src/")
+ ("/media/jishnu/Workspace/Linux/Workspace/OpenCV/" . "MotionDetection/")
+ ("/media/jishnu/Workspace/Linux/Workspace/" . "OpenCV/")
+ ("/media/jishnu/Workspace/Linux/" . "Workspace/")
+ ("/media/jishnu/Workspace/" . "Linux/")
+ ("/media/jishnu/" . "Workspace/")
+ ("/media/" . "jishnu/")
+ ("/" . "media/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jishnu/"
+ "/media/jishnu/Workspace/Linux/Workspace/OpenCV/MotionDetection/src/"
+ "/home/jishnu/Downloads/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "motiondetection.cpp"
+ "dd.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jishnu/" (23002 9498 482077 750000) ".cache/" ".ICEauthority" "Downloads/" ".xsession-errors" "Documents/" ".mozilla/" ".oh-my-zsh/" ".zcompdump" ".gnome/" ".emacs.d/" ".gnupg/" ".bash_history" ".emacs~" "Templates/" ".sudo_as_admin_successful" "Desktop/" ".smex-items" ".atom/" "Music/" ".Xauthority" "Pictures/" "Videos/" ".zsh_history" ".bashrc" ".dbus/" ".config/" "./" ".bash_logout" "Public/" ".profile" ".zcompdump-jishnu-ThinkPad-T410s-5.1.1" ".emacs" ".purple/" ".zshrc" ".nano/" "../" ".local/" ".gconf/" ".xsession-errors.old" ".zsh-update" ".pki/" ".dmrc")
+
+ ("/home/jishnu/Downloads/" (23002 6995 343148 170000) "#Baby.Driver.2017.720p.BRRip.1GB.MkvCage.mkv#" "a.out" "go1.9.linux-amd64.tar.gz" "dd.cpp" "sublime_text_3_build_3143_x64.tar.bz2" "assaa.cpp~" ".emacs.d/" "google-chrome-stable_current_amd64.deb" "Baby.Driver.2017.720p.BRRip.1GB.MkvCage.mkv" "assaa.cpp" "..emacs.swp" "virtualbox-5.1_5.1.28-117968-Ubuntu-xenial_amd64.deb" "./" ".emacs" "dd.cpp~" "../" "atom-amd64.deb" "sublimity-master.zip" "sublimity-master/")
+
+ ("/media/jishnu/Workspace/Linux/Workspace/OpenCV/MotionDetection/src/" (22992 56532 135626 86000) "motiondetection.cpp" "./" "motiondetection.cpp~" "../")
+
+ ("/media/jishnu/Workspace/Linux/Workspace/OpenCV/MotionDetection/" (22877 17045 445719 81000) "./" "src/" "MotionDetection" "ObjectTrack" "CMakeLists.txt" "Makefile" "../" "CMakeFiles/" "CMakeCache.txt" "cmake_install.cmake")
+
+ ("/media/jishnu/Workspace/Linux/Workspace/OpenCV/" (22877 16374 668281 461000) "Readme.md" "./" "BlobDetection/" "Face/" "MotionDetection/" ".git/" "ShapeDetection/" "../" "ObjectTracking/" "ObjectDetection/")
+
+ ("/media/jishnu/Workspace/Linux/Workspace/" (22845 17424 282110 283000) "raspiDB.mwb" "db.sql" "build/" "AO/" "proto_ssl/" "./" "Debian32/" "HomeBot/" ".repo/" "src/" "ardrone/" "UI/" "mbedtls-2.4.0/" "GO_test/" "OpenCV/" ".gitignore" "protoc/" "massCalc/" "raspiDB.mwb.bak" ".git/" "JsonDecoder/" "Leap/" "db/" "com/" "../" "MagicMirror/" "ssl/" "scrip.sh" "Kali-Linux-2016.2-vbox-i686/" "mbedtls-1.3.19/")
+
+ ("/media/jishnu/Workspace/Linux/" (22845 17424 282110 283000) "./" "RemoteSystemsTempFiles/" "testHttps/" "ROS/" "../" ".metadata/" "Workspace/" "SteamLibrary/")
+
+ ("/media/jishnu/Workspace/" (22890 26854 5150 296000) "./" "bing-ip2hosts-0.4.tar.gz" "bing-ip2hosts-0.4/" ".Trash-1000/" "Linux/" "katoolin/" ".vscode/" "../" "lost+found/" "Bash-Snippets/")
+
+ ("/media/jishnu/" (23000 52044 711792 867000) "Extra/" "Workspace/" "./" "../")
+
+ ("/media/" (22983 55994 865650 42000) "jishnu/" "./" "../")
+
+ ("/home/" (22983 52369 319297 999000) "jishnu/" "./" "../")
+
+ ("/home/jishnu/.emacs.d/" (22992 55621 905918 0) "jishnu-theme.el" "themes/" "sublimity/" "auto-save-list/" "./" "jishnu-theme.el~" "elpa/" "../")
+
+ ("/home/jishnu/.emacs.d/elpa/" (23000 51881 551317 777000) "minimap-1.2.signed" "doom-themes-20170927.1705/" "multiple-cursors-20170908.1452/" "memoize-20170720.1802/" "minimap-1.2/" "gnupg/" "all-the-icons-20170914.129/" "./" "expand-region-20170514.1309/" "archives/" "../" "neotree-20170522.758/" "font-lock+-20170222.1755/")
+
+ ("/home/jishnu/.emacs.d/elpa/expand-region-20170514.1309/" (23000 51885 471329 318000) "ruby-mode-expansions.elc" "python-el-expansions.el" "jsp-expansions.el" "python-mode-expansions.elc" "latex-mode-expansions.el" "clojure-mode-expansions.el" "enh-ruby-mode-expansions.elc" "html-mode-expansions.el" "python-el-fgallina-expansions.elc" "expand-region-pkg.el" "expand-region-custom.el" "the-org-mode-expansions.el" "expand-region-autoloads.el" "js-mode-expansions.el" "web-mode-expansions.el" "ruby-mode-expansions.el" "expand-region.el" "erlang-mode-expansions.el" "cperl-mode-expansions.elc" "text-mode-expansions.el" "the-org-mode-expansions.elc" "er-basic-expansions.el" "octave-expansions.elc" "text-mode-expansions.elc" "nxml-mode-expansions.el" "sml-mode-expansions.elc" "css-mode-expansions.elc" "web-mode-expansions.elc" "nxml-mode-expansions.elc" "python-el-fgallina-expansions.el" "expand-region-custom.elc" "octave-expansions.el" "js2-mode-expansions.elc" "expand-region-core.el" "feature-mode-expansions.el" "expand-region.elc" "python-mode-expansions.el" "enh-ruby-mode-expansions.el" "subword-mode-expansions.el" "js-mode-expansions.elc" "cc-mode-expansions.elc" "feature-mode-expansions.elc" "latex-mode-expansions.elc" "sml-mode-expansions.el" "clojure-mode-expansions.elc" "jsp-expansions.elc" "./" "html-mode-expansions.elc" "subword-mode-expansions.elc" "cperl-mode-expansions.el" "python-el-expansions.elc" "expand-region-autoloads.el~" "js2-mode-expansions.el" "cc-mode-expansions.el" "erlang-mode-expansions.elc" "er-basic-expansions.elc" "expand-region-core.elc" "../" "css-mode-expansions.el")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

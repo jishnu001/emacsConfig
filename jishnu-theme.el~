@@ -1,0 +1,13 @@
+(deftheme jishnu
+  "Created 2017-10-01.")
+
+(custom-theme-set-variables
+ 'jishnu
+ '(ansi-color-faces-vector [default default default italic underline success warning error])
+ '(ansi-color-names-vector ["black" "red3" "ForestGreen" "yellow3" "blue" "magenta3" "DeepSkyBlue" "gray50"])
+ '(minimap-mode t)
+ '(minimap-update-delay 0.01)
+ '(minimap-window-location (quote right))
+ '(sublimity-mode t))
+
+(provide-theme 'jishnu)
